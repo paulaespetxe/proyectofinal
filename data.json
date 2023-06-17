@@ -1,0 +1,10 @@
+[
+    { "id" : 1,"nombre": "Lemon pie", "precio" : 1500,"descripcion": "Relleno de crema de limon decorada con merengue italiano","imagen": "../imagenes/lemon.jpg ","cantidad":1},
+    { "id": 2 ,"nombre": "Pasta Frola", "precio": 2500, "descripcion":"Rellena de dulce de membrillo, decorada con coco rallado","imagen": "../imagenes/pasta frola.jpg ","cantidad":1},
+    { "id": 3 ,"nombre": "Tarta de frutilla", "precio": 3500, "descripcion":"Rellena de crema pastelera con trozos de frutilla y descorada con coco","imagen": "../imagenes/frutilla.jpg ","cantidad":1},
+    { "id": 4 ,"nombre": "Tarta Conga", "precio": 4500, "descripcion":"Rellena de dulce de leche bañada en chocolate","imagen": "../imagenes/conga.jpg ","cantidad":1 },
+    { "id": 5,"nombre": "Cookies con chips", "precio": 550, "descripcion":"Galletas de vainilla con chips de chocolate","imagen": "../imagenes/cookies.jpg ","cantidad":1 },
+    { "id": 6,"nombre": "Brownie", "precio": 2260,"descripcion":"Brownie de chocolate con nueces,dulce de leche y merengue","imagen": "../imagenes/brownie.jpg ","cantidad":1 },
+    { "id": 7, "nombre": "Scons", "precio": 480, "descripcion":"Vainilla con pasas de uva","imagen": "../imagenes/scons.jpg ","cantidad":1  },
+    { "id": 8,"nombre": "Tarta de coco", "precio": 3000,"descripcion":"Relleno de dulce de leche","imagen": "../imagenes/tartacoco.jpg ","cantidad":1  }
+    ]

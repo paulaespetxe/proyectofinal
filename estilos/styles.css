@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    font-weight: lighter;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: rgb(255, 245, 190);
+}
+
+a{
+    text-decoration: none;
+}
+.bg{
+    background-color: black;
+}
+
+.card{
+background-color: pink;
+}
+.card-text{
+    font-family: "Roboto", sans-serif;
+}
+
+.carritoContenedor{
+    font-size: 100px;
+}
